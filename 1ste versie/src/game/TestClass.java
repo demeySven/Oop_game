@@ -49,7 +49,7 @@ public class TestClass {
 		System.out.println("FightingHitpoints van attacker(Donaat):"+monster.getFightingHitpoints());
 		monster2.hitting(monster);
 		assertTrue(monster.getHitpoints()<=100);
-			System.out.println("dees ga lukken!");
+			System.out.println("deeseijgzeij!");
 	}
 
 
